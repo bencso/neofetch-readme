@@ -13,4 +13,10 @@ To save this as a terminal-like image, use the [Carbon](https://carbon.now.sh) p
 You will need Python and an additional library to use the tool. Install the necessary libraries using pip:
 
 ```sh
-pip install numpy
+pip3 install numpy
+```
+
+After that, just start with
+```sh
+python3 index.py
+```
