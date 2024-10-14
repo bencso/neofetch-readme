@@ -3,6 +3,8 @@
 Neofetch README Builder is a tool that helps you create a Neofetch-style terminal output for GitHub README. It converts an image to ASCII and generates Neofetch-style output to a txt file based on the input.
 To save this as a terminal-like image, use the [Carbon](https://carbon.now.sh) page.
 
+![MyBio](https://github.com/bencso/bencso/raw/main/bio.png)
+
 ## Features
 
 - Convert image to ASCII art.
