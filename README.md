@@ -4,7 +4,7 @@
 
 ## 🎯 Projekt célja
 
-Ez egy eszköz, amely Neofetch stílusú README.md fájlokat generál GitHub profilokhoz. A klasszikus terminál neofetch megjelenését hozza el a GitHub README-kbe.
+A projekt célja egy egyedi megoldás a GitHub profilok testreszabásához. A neofetch terminál tool népszerű ASCII stílusát adaptálja README formátumba.
 
 ## ✨ Funkciók
 
@@ -18,10 +18,6 @@ Ez egy eszköz, amely Neofetch stílusú README.md fájlokat generál GitHub pro
 ## 🛠️ Technológia
 
 - **Python**
-
-## 💭 Fejlesztési folyamat
-
-A projekt célja egy egyedi megoldás a GitHub profilok testreszabásához. A neofetch terminál tool népszerű ASCII stílusát adaptálja README formátumba.
 
 ## 🎓 Tanulási célok
 
@@ -38,16 +34,9 @@ Készíts egyedi, neofetch stílusú README-t a GitHub profilodhoz:
 3. Generáld le a README-t
 4. Másold a GitHub profilodba
 
-
 ***
 
 **Státusz:** ✅ Befejezett
-
-***
-
-## 💭 Megjegyzések
-
-Egy szórakoztató kis projekt, amely a terminál neofetch esztétikáját hozza el a GitHub README-kbe. Egyedi és kreatív módon mutathatod be magad a profilodon!
 
 ***
 
